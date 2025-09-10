@@ -1,0 +1,5 @@
+package com.rushikesh.wipro.utils;
+
+public class JwtUtil {
+
+}

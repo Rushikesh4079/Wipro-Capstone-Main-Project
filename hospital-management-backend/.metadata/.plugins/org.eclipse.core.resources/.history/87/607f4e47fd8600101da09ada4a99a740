@@ -1,0 +1,9 @@
+package com.rushikesh.wipro.repo;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.rushikesh.wipro.entity.Patient;
+
+public interface PatientRepository extends JpaRepository<Patient, Long> {
+
+}

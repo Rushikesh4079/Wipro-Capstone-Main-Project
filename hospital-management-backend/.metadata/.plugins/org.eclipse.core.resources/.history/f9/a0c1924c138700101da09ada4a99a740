@@ -1,0 +1,5 @@
+package com.rushikesh.wipro.entity;
+
+public class Doctor {
+
+}

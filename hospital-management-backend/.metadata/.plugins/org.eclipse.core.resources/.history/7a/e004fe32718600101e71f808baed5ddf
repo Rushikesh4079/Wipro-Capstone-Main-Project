@@ -1,0 +1,5 @@
+package com.rushikesh.wipro.dto;
+
+public class AppointmentDto {
+
+}
